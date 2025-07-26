@@ -1,1 +1,1 @@
-hotfix somewhere
+hotfix config for prod
